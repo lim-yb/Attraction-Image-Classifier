@@ -1,6 +1,6 @@
 # Singapore Attractions Image Classifier
 
-This project explores the use of Tranfer Learning with EfficientNetB7 model, a Convolution Neural Network (CNN), to classify images of 4 iconic tourist attractions in Singapore.
+This project explores the use of Transfer Learning with EfficientNetB7 model, a Convolution Neural Network (CNN), to classify images of 4 iconic tourist attractions in Singapore.
 - Gardens by the Bay
 - Changi Jewel
 - Marina Bay Sands
